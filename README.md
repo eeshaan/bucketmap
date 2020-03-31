@@ -6,6 +6,14 @@ This project involves creating an archive for users to store information and pic
 
 You can read the full project proposal [here](https://docs.google.com/document/d/1ySZp9mzTy1O5z2HsEgPHzzFaUhzUveCS5J6Z98AHl2E/edit?usp=sharing). (Must be logged in with UW-Madison Google Account.)
 
+## Images
+Here is a preview image of what our App's final product may look like!
+<ul>
+  <a title = "GUI Image 1" href = "https://github.com/eeshaan/bucketmap/blob/master/Picture1.png">
+    <img src = "https://github.com/eeshaan/bucketmap/blob/master/Picture1.png">
+  </a>
+</ul>
+
 ## Contributors
 <ul>
   <a title="Eeshaan Pirani" href="https://github.com/eeshaan">
