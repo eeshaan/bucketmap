@@ -7,10 +7,22 @@ This project involves creating an archive for users to store information and pic
 You can read the full project proposal [here](https://docs.google.com/document/d/1ySZp9mzTy1O5z2HsEgPHzzFaUhzUveCS5J6Z98AHl2E/edit?usp=sharing). (Must be logged in with UW-Madison Google Account.)
 
 ## Images
-Here is a preview image of what our App's final product may look like!
+Here are some preview images of what our App's final product may look like!
 <ul>
   <a title = "GUI Image 1" href = "https://github.com/eeshaan/bucketmap/blob/master/Picture1.png">
     <img src = "https://github.com/eeshaan/bucketmap/blob/master/Picture1.png">
+  </a>
+  <a title = "GUI Image 2" href = "https://github.com/eeshaan/bucketmap/blob/master/Picture3.png">
+    <img src = "https://github.com/eeshaan/bucketmap/blob/master/Picture3.png">
+  </a>
+  <a title = "GUI Image 3" href = "hhttps://github.com/eeshaan/bucketmap/blob/master/Picture4.png">
+    <img src = "https://github.com/eeshaan/bucketmap/blob/master/Picture4.png">
+  </a>
+  <a title = "GUI Image 4" href = "https://github.com/eeshaan/bucketmap/blob/master/Picture5.png">
+    <img src = "https://github.com/eeshaan/bucketmap/blob/master/Picture5.png">
+  </a>
+  <a title = "GUI Image 5" href = "hhttps://github.com/eeshaan/bucketmap/blob/master/Picture6.png">
+    <img src = "https://github.com/eeshaan/bucketmap/blob/master/Picture6.png">
   </a>
 </ul>
 
