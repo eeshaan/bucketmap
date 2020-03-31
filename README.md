@@ -4,7 +4,7 @@ Vacation planning and exploring with friends.
 ## About
 This project involves creating an archive for users to store information and pictures about the places and things they would like to do. The app would be called Bucketmap. It is a virtual location-based bucket list. By inputting information about the location, activity, and travel tips, users can start to populate a map with posts from all around the world. Then users can look back at them to plan once-in-a-lifetime trips! 
 
-You can read the full project proposal [here](https://docs.google.com/document/d/1ySZp9mzTy1O5z2HsEgPHzzFaUhzUveCS5J6Z98AHl2E/edit?usp=sharing).(Must be logged in with UW-Madison Google Account.)
+You can read the full project proposal [here](https://docs.google.com/document/d/1ySZp9mzTy1O5z2HsEgPHzzFaUhzUveCS5J6Z98AHl2E/edit?usp=sharing). (Must be logged in with UW-Madison Google Account.)
 
 ## Images
 Here are some preview images of what our App's final product may look like!
